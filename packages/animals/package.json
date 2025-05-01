@@ -1,6 +1,7 @@
 {
-  "name": "@tuskdesign/animals",
+  "name": "@epurchasepower/animals",
   "version": "1.2.0",
+  "private": true,
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -8,10 +9,7 @@
   "files": [
     "dist/**"
   ],
-  "scripts": {
-    "build": "tsc --build tsconfig.lib.json",
-    "typecheck": "tsc"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
